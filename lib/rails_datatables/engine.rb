@@ -1,6 +1,5 @@
 require 'rubygems'
 require 'rails'
-require 'jsonify-rails'
 require 'meta_search'
 
 module RailsDatatables
